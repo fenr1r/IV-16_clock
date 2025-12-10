@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-11-01T19:40:52Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.67,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "iv-16_ctrl_brd_"
+        },
+        "Owner": "K H <petite.et.dabitur.vobis+autodesk@gmail.com>",
+        "Size": {
+            "X": 99.365,
+            "Y": 46.1225
+        }
+    }
+}
