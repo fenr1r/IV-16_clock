@@ -10,6 +10,7 @@ for more information please refer to my blog:
 - Controller_program : AVR ATmega328P program (AtmelStudio)
 - Controller_sch : schematic and gerber files (Eagle)
 - Display_sch : schematic and gerber files (Eagle)
+- Side_panel_pcb : drawing of the side panel (KiCad)
 
 ### Used libraries
 
